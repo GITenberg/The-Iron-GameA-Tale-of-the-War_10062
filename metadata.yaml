@@ -1,0 +1,26 @@
+_repo: The-Iron-GameA-Tale-of-the-War_10062
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Keenan, Henry F. (Henry Francis)
+    alias: Keenan, Henry Francis
+    birthdate: 1850
+    gutenberg_agent_id: '3288'
+    url: http://www.gutenberg.org/2009/agents/3288
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10062'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'The Iron Game
+
+  A Tale of the War'
+url: http://www.gutenberg.org/ebooks/10062
